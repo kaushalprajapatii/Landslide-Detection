@@ -1,4 +1,4 @@
-# Landslide-Detection
+# Landslide-Segmentation
 Download dataset (Kaggle) : Landslide4Sense
  This project focuses on automatically detecting landslides using satellite images and deep
  learning. It uses a special model called U-Net to find and map areas affected by landslides. The
